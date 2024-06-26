@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ellesigxl
-- 👀 I’m interested in code programming
-- 😄 Pronouns: she/her
+- I’m @ellesigxl
+- I’m interested in code programming
+- Pronouns: she/her
